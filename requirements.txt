@@ -2,7 +2,5 @@ streamlit
 requests
 tensorflow
 numpy 
-
-PIL 
 pickle
 pandas 
