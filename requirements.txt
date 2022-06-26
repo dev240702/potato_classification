@@ -1,2 +1,8 @@
 streamlit
 requests
+tensorflow
+numpy 
+io
+PIL 
+pickle
+pandas 
