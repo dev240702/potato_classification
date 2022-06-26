@@ -6,7 +6,7 @@ import tensorflow as tf
 import pandas as pd
 import streamlit as st
 def load_model():
-    MODEl=tf.keras.models.load_model("./model")
+    MODEl=tf.keras.models.load_model("/model")
 
     return MODEl
 
